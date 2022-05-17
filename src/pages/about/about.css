@@ -1,0 +1,46 @@
+.about{
+    height: 50vw;
+    padding-top: 70px;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+
+.aboutL{  
+    margin-left: 5%;
+    margin-top: 2%;
+}
+.abouHead{
+    margin-top: 0px;
+    margin-bottom: 1%;
+    font-family: "Verdana" sans-serif;
+    font-size: 35px;
+    color: #462556;
+    font-weight: 700;
+    margin-left: 2%;
+    letter-spacing: 3px;
+   
+
+}
+.aboutImg{
+   
+    width: 400px;
+    height: 400px;
+}
+.aboutR{
+    
+    margin-left: 9%;
+    margin-top: 5%;
+    flex-direction: row;
+    line-height: 80px;
+}
+.aboutR p{
+    
+    font-size: 20px;
+    font-weight: 500;
+    
+    font-family: "Josefin Sans", sans-serif;
+    color: #462556;
+
+}

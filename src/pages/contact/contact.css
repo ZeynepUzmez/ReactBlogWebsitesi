@@ -1,0 +1,83 @@
+.contact {
+    padding-top: 50px;
+    border-bottom: 1px solid #462556;
+  }
+  .contactDef{
+      margin-top: 50px;
+      width: 40vw;
+      font-family: "Josefin Sans", sans-serif;
+      color: #462556;
+      margin-left: 5%;
+      font-weight: 700;
+      font-size: 20px;
+      border-bottom: 1px solid #462556;
+
+  }
+  
+  
+  .contactForm {
+      margin-top: 100px;
+    position: relative;
+    
+  }
+  
+  .contactFormGroup {
+    margin-left: 150px;
+    display: flex;
+    align-items:center;
+    flex-direction: column;
+    
+  }
+  
+  .contactIcon {
+    width: 25px;
+    height: 25px;
+    font-size: 20px;
+    border: 1px solid;
+    border-radius: 50%;
+    color: rgb(129, 125, 125);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+  
+  .contactInput {
+    font-size: 20px;
+    border: none;
+    padding: 20px;
+    width: 80vw;
+  }
+  
+  .contactInput::placeholder {
+    color: rgb(189, 185, 185);
+    font-weight: 400;
+  }
+  
+  .contactInput:focus {
+    outline-style: none;
+  }
+  
+  .contactText {
+    width: 80vw;
+    height: 30vh;
+    font-family: inherit;
+    font-size: 20px;
+  }
+  
+  .contactSubmit {
+    position: absolute;
+    margin-right: 50px;
+    top: 350px;
+    right: 100px;
+    color: white;
+    background-color: #462556;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+  }
+  
