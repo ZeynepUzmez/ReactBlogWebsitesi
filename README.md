@@ -9,7 +9,7 @@ React ile oluşturulmuş kişisel blog websitesi
  <p>İcerik Ekleme Sayfası</p><br>
  <img src="readmeİcinFotograflar/icerikEkleme.jpg" alt=""><br>
   <p>İletisim Sayfası</p><br>
- <img src="readmeİcinFotograflar/iletisim.jpg" alt=""><br>
+ <img src="readmeİcinFotograflar/iletişim.jpg" alt=""><br>
   <p>Profil Sayfası</p><br>
  <img src="readmeİcinFotograflar/profilsayfası.jpg" alt=""><br>
   
